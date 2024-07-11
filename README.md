@@ -32,13 +32,13 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkksnizn&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkksniz&theme=aura_dark"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kkksniz&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kkksniz&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kkksniz&show_icons=true&theme=aura_dark" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kkksniz&theme=aura_dark" />
 </p>
 
 
